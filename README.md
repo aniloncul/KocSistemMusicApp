@@ -5,10 +5,10 @@ A music app that is to be developed during my internship
 ---
 Bu projenin amacı bir sosyal müzik paylaşım platformu oluşturmaktır. Şarkıları tamamen kullanıcıların kendilerinin girdiği ve oluşturduğu bir kitaplık olacaktır. Akış ise şu şekilde olacak:
 
-*Kullanıcılar giriş yapmadan platformu kullanamayacaklar
-*İlk defa giriş yapacak kullanıcı üye olmak zorundadır, üyelikler platform yetkililerince onaylanacaktır.
-*Giriş yapan kullanıcılar bütün şarkılara erişim yapabilecekler
-*Şarkılardan kendilerine çalma listeleri oluşturabilecekler
+* Kullanıcılar giriş yapmadan platformu kullanamayacaklar
+* İlk defa giriş yapacak kullanıcı üye olmak zorundadır, üyelikler platform yetkililerince onaylanacaktır.
+* Giriş yapan kullanıcılar bütün şarkılara erişim yapabilecekler
+* Şarkılardan kendilerine çalma listeleri oluşturabilecekler
 
 3 tür kullanıcı olacak:
 1. Standart Kullanıcılar : Standart platform kullanıcılarıdır. Şarkıları görüntüleyip liste oluşturabilirler.
